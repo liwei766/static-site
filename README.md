@@ -7,8 +7,6 @@
 > **This is an experimental example. It may not build out of the box**
 >
 > This examples does is built on Construct Libraries marked "Experimental" and may not be updated for latest breaking changes.
->
-> If build is unsuccessful, please create an [issue](https://github.com/aws-samples/aws-cdk-examples/issues/new) so that we may debug the problem
 
 ---
 <!--END STABILITY BANNER-->
